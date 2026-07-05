@@ -1,6 +1,6 @@
 # Data Analytics – Exploratory Data Analysis (EDA) on Superstore Sales Dataset
 
-This project was completed as **Task 2** of the **Oasis Infobyte Summer Internship Program (OIBSIP) – Data Analytics track**. It performs an end-to-end **Exploratory Data Analysis (EDA)** on the **Sample Superstore** retail dataset to uncover trends and insights in sales, profit, and shipping performance.
+This project was completed as part of the **Oasis Infobyte Summer Internship Program (OIBSIP) – Data Analytics track**. It performs an end-to-end **Exploratory Data Analysis (EDA)** on the **Sample Superstore** retail dataset to uncover trends and insights in sales, profit, and shipping performance.
 
 ## 📌 Project Overview
 
